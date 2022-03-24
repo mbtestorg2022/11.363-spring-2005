@@ -56,7 +56,7 @@ This case study examines the origins and activities of one environmental NGO's i
 
 [World Alliance of Mobile Indigenous Peoples (WAMIP)](http://web.archive.org/web/20100607071649/http://www.wamip.org/)
 
-Civic Entrepreneurship Series (CENESTA wrote the regional West Asia chapter in Volume V) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](http://www.siame.gov.co/siame/documentos/documentacion/mdl/03_VF_Bibliografia/Cambio%20Climatico%20y%20Desarrollo/Civil%20entrepreneurship%20Global.pdf))
+Civic Entrepreneurship Series (CENESTA wrote the regional West Asia chapter in Volume V) ([PDF - 1.8 MB](http://www.siame.gov.co/siame/documentos/documentacion/mdl/03_VF_Bibliografia/Cambio%20Climatico%20y%20Desarrollo/Civil%20entrepreneurship%20Global.pdf))
 
 Week 8: Rio Grande/Rio Bravo Shared Water Dispute: Where North Meets South (Randall Coffie)
 -------------------------------------------------------------------------------------------
