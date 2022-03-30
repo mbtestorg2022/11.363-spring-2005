@@ -8,6 +8,7 @@ description: 'Reactions on: Community Environmental Policing: Assessing New Stra
   by Fisher and Green, Leveraging Local Action by Carmin, Hicks and Beckmann.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/cf519bbeff6d98c14cdb966d6dd6e6da_erik_nielsen10.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: erik_nielsen10.pdf
 uid: cf519bbe-ff6d-98c1-4cdb-966d6dd6e6da

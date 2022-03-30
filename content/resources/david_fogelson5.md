@@ -6,6 +6,7 @@ description: 'Reactions on: On the Internationa Origins of Domestic Political Op
   Hicks, and Managng Civil Socety by Crotty.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/70c89545c225dcde4e1721cee25d4a4a_david_fogelson5.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: david_fogelson5.pdf
 uid: 70c89545-c225-dcde-4e17-21cee25d4a4a

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Reactions on: social movement.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/bd3ec1fde7947b198645f586eca3e55a_student_one5.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: student_one5.pdf
 uid: bd3ec1fd-e794-7b19-8645-f586eca3e55a

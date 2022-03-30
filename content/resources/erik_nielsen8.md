@@ -6,6 +6,7 @@ description: 'Reactions on: Political Opportunity Structures and Political Prote
   Planning in the American West: The Good, the Bad and the Ugly by Singleton.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/7aa99fe527994e264f0b42f9e2c63136_erik_nielsen8.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: erik_nielsen8.pdf
 uid: 7aa99fe5-2799-4e26-4f0b-42f9e2c63136

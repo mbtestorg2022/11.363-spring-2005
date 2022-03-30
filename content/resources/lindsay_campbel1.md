@@ -9,6 +9,7 @@ description: 'Reactions on: The shift in power from the latter to the former (an
   social movements as contributing to global problem solving by  Smith et al.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/0b15037528abb3ebf68b6aca7f9b42cd_lindsay_campbel1.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: lindsay_campbel1.pdf
 uid: 0b150375-28ab-b3eb-f68b-6aca7f9b42cd

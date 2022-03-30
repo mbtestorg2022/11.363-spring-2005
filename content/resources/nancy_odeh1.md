@@ -4,6 +4,7 @@ description: 'Reactions on: David Riff (1999), Smith et al., (1997), Kaldor (200
   Mathews (1997), Clark (2003), followed by some questions based on the readings.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/04463d770c2ae8e821bfbabb4a8206f2_nancy_odeh1.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: nancy_odeh1.pdf
 uid: 04463d77-0c2a-e8e8-21bf-babb4a8206f2

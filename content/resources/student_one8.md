@@ -7,6 +7,7 @@ description: 'Reactions on: decision making process should take care of distribu
   the public by Hallstrom.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/29ca4b74af07c492d13825e588992bb0_student_one8.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: student_one8.pdf
 uid: 29ca4b74-af07-c492-d138-25e588992bb0

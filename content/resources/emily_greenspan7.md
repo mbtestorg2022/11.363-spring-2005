@@ -8,6 +8,7 @@ description: 'Reactions on: NGO Influence in International Environmental Negotia
   within the World Trade Organization? by Mason.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/9469cf037dd797dcca757cbc406629fd_emily_greenspan7.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: emily_greenspan7.pdf
 uid: 9469cf03-7dd7-97dc-ca75-7cbc406629fd

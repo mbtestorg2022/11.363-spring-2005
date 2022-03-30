@@ -7,6 +7,7 @@ description: 'Reactions on: Political opportunity theory by McAdam, Cross-nation
   within the Russian Federation by Crotty.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/0d44723ac830e6b328aeaafd8189bf89_lindsay_campbel5.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: lindsay_campbel5.pdf
 uid: 0d44723a-c830-e6b3-28ae-aafd8189bf89

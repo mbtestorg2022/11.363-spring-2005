@@ -7,6 +7,7 @@ description: 'Reactions on: Increase in NGOs? efforts to work directly with (coo
   by Sasser et al.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/7c208fb5aa36a2b7d9ba829737a64eb1_lindsay_campbel9.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: lindsay_campbel9.pdf
 uid: 7c208fb5-aa36-a2b7-d9ba-829737a64eb1

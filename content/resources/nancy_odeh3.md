@@ -4,6 +4,7 @@ description: 'Reactions on: Ludivine and Tamiotti (2001), Wapner (2002), Wapner 
   followed by the questions based on the readings.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/cae686db105bf4f99121d29886b6d2db_nancy_odeh3.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: nancy_odeh3.pdf
 uid: cae686db-105b-f4f9-9121-d29886b6d2db

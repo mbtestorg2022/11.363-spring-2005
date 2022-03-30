@@ -7,6 +7,7 @@ description: 'Reactions on: The structure of European Union (EU) environmental p
   movements by Kitschelt, Cases of collaborative environmental planning by Singleton.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/64143c555413badd5db9b869f463fea4_lindsay_campbel8.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: lindsay_campbel8.pdf
 uid: 64143c55-5413-badd-5db9-b869f463fea4

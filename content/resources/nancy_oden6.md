@@ -5,6 +5,7 @@ description: 'Reactions on: Dalton, Rohrschneider, and Recchia (2003), Carmen an
   questions based on the readings.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/6bc03244a0415e62458b8c03d80f3b91_nancy_oden6.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: nancy_oden6.pdf
 uid: 6bc03244-a041-5e62-458b-8c03d80f3b91

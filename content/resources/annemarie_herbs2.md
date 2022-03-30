@@ -6,6 +6,7 @@ description: 'Reactions on:Defending Accountability in NGOs by Paul Wapner, NGO 
   Restructuring World Politics: The Limits and Asymmetries of Soft Power by Sikkink.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/ded6804b8edd300c62a4629560a705c8_annemarie_herbs2.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: annemarie_herbs2.pdf
 uid: ded6804b-8edd-300c-62a4-629560a705c8

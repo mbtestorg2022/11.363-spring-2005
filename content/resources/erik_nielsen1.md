@@ -5,6 +5,7 @@ description: Rather than specifically reviewing or commenting on each reading an
   the readings. In addition, there are four questions of this commentary for the class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/c5fb2fd6b82809754150adda79b79353_erik_nielsen1.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: erik_nielsen1.pdf
 uid: c5fb2fd6-b828-0975-4150-adda79b79353

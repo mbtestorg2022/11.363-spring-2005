@@ -7,6 +7,7 @@ description: 'Reactions on: The Environmental Movement and the Modes of Politica
   in Marine Campaigns by Richards, Heard.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-363-civil-society-and-the-environment-spring-2005/e047d68fb1d1bb82ac3af47177a9f114_emily_greenspan6.pdf
 file_type: application/pdf
+parent_uid: 824c2a70-5a05-227e-14e5-2c372c0c3ab3
 resourcetype: Document
 title: emily_greenspan6.pdf
 uid: e047d68f-b1d1-bb82-ac3a-f47177a9f114
